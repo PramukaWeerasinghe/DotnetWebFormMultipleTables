@@ -1,0 +1,10 @@
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\bin\Debug\ABCompanyForm.exe.config
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\bin\Debug\ABCompanyForm.exe
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\bin\Debug\ABCompanyForm.pdb
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.Form1.resources
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.Properties.Resources.resources
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.csproj.GenerateResource.cache
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.exe
+C:\Users\DSP\source\repos\ABCompanyForm\ABCompanyForm\obj\Debug\ABCompanyForm.pdb
